@@ -8,7 +8,7 @@ print()
 
 if datos.camino == "izquierda":
     print("Los árboles susurran a tu paso. De pronto, una voz grave dice:")
-    print("'Responde mi acertijo y te dejaré pasar con un regalo.'")
+    print("Responde mi acertijo y te dejaré pasar con un regalo.")
     print()
     print("Acertijo: 'Sin alas vuela, sin boca grita.'")
     print("1) El viento   2) El pájaro   3) La nube")
