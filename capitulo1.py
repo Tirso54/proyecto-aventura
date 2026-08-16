@@ -44,11 +44,11 @@ elif opcion == "3":
     datos.ataque = 10
     datos.pociones = 4
 else:
-    print("Ese número no existe. Serás Guerrero por defecto.")
-    datos.clase = "Guerrero"
-    datos.vida = 30
-    datos.ataque = 8
-    datos.pociones = 3
+    print("Ese número no existe. Serás Ladron por defecto.")
+    datos.clase = "Ladron"
+    datos.vida = 25
+    datos.ataque = 10
+    datos.pociones = 4
 datos.vida_max = datos.vida
 datos.oro = 20
 
