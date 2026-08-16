@@ -4,11 +4,11 @@ import datos
 
 print()
 print("=" * 44)
-print("  CAPÍTULO 4: LA BIBLIOTECA DE LAS RUINAS")
+print("  CAPÍTULO 4: LA BIBLIOTECA DE LAS RUNAS")
 print("=" * 44)
 print()
 print("Tras el salón encuentras una biblioteca llena de libros podridos.")
-print("En la pared hay tres piedras con ruinas. Tres acertijos esconden")
+print("En la pared hay tres piedras con runas. Tres acertijos esconden")
 print("tres runas. Si las juntas, ganarás una gran recompensa.")
 print()
 
