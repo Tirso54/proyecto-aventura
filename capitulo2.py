@@ -12,7 +12,7 @@ if datos.camino == "izquierda":
     print()
     print("Acertijo: 'Sin alas vuela, sin boca grita.'")
     print("1) El viento   2) El pájaro   3) La nube")
-    respuesta = input("Tu respuesta (1, 2 o 3): ")
+    respuesta = input("Que eliges (1, 2 o 3): ")
     if respuesta == "1":
         print("¡Correcto! El espíritu del bosque te sonríe y te da 10 monedas.")
         datos.oro = datos.oro + 10
