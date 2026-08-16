@@ -1,9 +1,9 @@
 import datos
 
 print()
-print("=" * 44)
+print("*" * 44)
 print("  CAPÍTULO 7: EPÍLOGO")
-print("=" * 44)
+print("*" * 44)
 print()
 print("Sales de la cueva con el tesoro del rey a cuestas.")
 print("El sol te deslumbra. La aldea te recibe con aplausos.")
