@@ -5,7 +5,6 @@ import datos
 print("=" * 44)
 print("  EL TESORO DE LA CUEVA OSCURA")
 print("  Una aventura de texto en Python")
-print("  Sin funciones y sin bucles")
 print("=" * 44)
 print()
 print("Hace muchos años, el rey escondió su tesoro más preciado")
